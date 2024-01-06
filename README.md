@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ashray 
+- 👋 Hi, I’m Ashray. Portfolio: https://ashray-reactportfolio.vercel.app/
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on applications based on python programming language
+- 🌱 I’m currently learning React 
+- 💞️ I’m looking to collaborate on frontend development language
 - 📫 How to reach me ashraycp07@gmail.com
 
 <!---
