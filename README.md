@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashray. Portfolio: https://ashray-reactportfolio.vercel.app/
+- 👋 Hi, I’m Ashray. Portfolio: https://ashray-cp.netlify.app/
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on frontend development language
