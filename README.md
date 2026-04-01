@@ -61,16 +61,6 @@ motto:      "Real problems deserve real solutions 🚀"
 
 ---
 
-## `$ git log --oneline`
-
-<div align="center">
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ashrayachu&theme=dark&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrayachu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00D9FF)
-
-</div>
-
 ---
 
 ## `$ cat ./contact`
