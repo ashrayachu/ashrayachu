@@ -1,12 +1,10 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║            ASHRAY C P  ·  Full-Stack Engineer             ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<h3>╔═══════════════════════════════════════════════════════════╗</h3>
+<h2>ASHRAY C P &nbsp;·&nbsp; Full-Stack Engineer</h2>
+<h3>╚═══════════════════════════════════════════════════════════╝</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+Stack+%7C+SaaS+%7C+REST+APIs;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+Stack+%7C+SaaS+%7C+REST+APIs;Turning+Real+Problems+into+Digital+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
